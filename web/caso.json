@@ -1,0 +1,12 @@
+{
+ "num": 4,
+ "empresa": "VoltRide",
+ "subtitulo": "alquiler de patinetes eléctricos",
+ "contexto": "VoltRide quiere su parte de trayectos automatizado y, con el registro de alquileres de la app, decidir **dónde poner más plazas de aparcamiento**.",
+ "preguntas": [
+  "¿Qué **zona** deja menos ingreso por minuto de trayecto?",
+  "¿Qué **usuario** gasta más batería por minuto?",
+  "¿Qué **patinete** acumula más incidencias por cada 100 minutos de uso?",
+  "¿En qué zona se piden **más alquileres por cada plaza de aparcamiento**? Cuidado: la zona con más alquileres no tiene por qué ser la respuesta."
+ ]
+}
